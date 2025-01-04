@@ -14,8 +14,8 @@ Examples
 
 
 
-function firstNonRepeated(ch) {
-    const strArr = ch.split(''); 
+function firstNonRepeated(s) {
+    const strArr = s.split(''); 
     const charCount = {}; 
   
    
